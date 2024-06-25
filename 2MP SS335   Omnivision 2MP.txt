@@ -1,0 +1,19 @@
+2MP SS335   Omnivision 2MP
+4MP and 5MP SS337DE Sony IMX335
+
+2MP SS336Q Omnivision 2MP
+4MP and 5MP SS338Q SS337DE Sony IMX335
+
+
+
+SOI for Fixed lens and Smart Sense for Varifocal lens
+
+2MP SS335   SOI
+4MP and 5MP SS337DE 
+
+2MP SS336Q 
+4MP and 5MP SS338Q SS337DE 
+
+CV28S33M
+CV28S55M
+CV28S66M
